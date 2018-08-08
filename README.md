@@ -4,3 +4,5 @@ my first repository
 
 wfc here,I like reading,running,I am in china.shenyang hunnan
 public class
+
+int a=b;
